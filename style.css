@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(https://www.pixeden.com/media/k2/galleries/220/003-wood-melamine-subttle-pattern-background-pat.jpg);
+    background-image: url(https://i.pinimg.com/originals/09/7e/32/097e329b5450039277a81286102c3ea0.jpg);
 }
 
 .container {
@@ -70,7 +70,7 @@ body {
 }
 
 .left {
-    background-color: gold;
+    background-color: #F5F8FA;
     height: 280px;
     text-align: center;
     padding: 8px;
@@ -78,7 +78,7 @@ body {
 
 .central {
     width: 68%;
-    background-color: white;
+    background-color: #F5F8FA;
     height: 735px;
     float: left;
     margin-left:1%;
@@ -145,7 +145,7 @@ main:after {
 
 .right .widget {
     height: 121px;
-    background-color: gold;
+    background-color: #F5F8FA;
     margin-bottom: 10px;
     padding: 9px;
 }
